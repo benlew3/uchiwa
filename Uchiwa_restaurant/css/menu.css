@@ -1,5 +1,6 @@
 /*header*/
 body{
+	background-color: #383838;
 	margin: 0px;
 }
 header{
@@ -31,3 +32,33 @@ a{
 nav li a:hover {
 	text-decoration: underline;
  }
+/*the is the meat of the stuff*/
+th#start{
+	font-size: 70px;
+	color:#998138;
+	font-family: 'PT Sans Narrow', sans-serif;
+	position: relative;
+	left: 120%;
+	padding-top: 10%;
+}
+th#appetizer{
+	font-size: 48px;
+	color: #B00000;
+	font-family: 'PT Sans Narrow', sans-serif;
+	position: relative;
+	left:120%;
+	border-bottom: 2px solid black;
+}
+td#food{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 36px;
+	position: relative;
+	left: 80%;
+	border-right: 1px solid black;
+}
+td#price{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 36px;
+	position: relative;
+	left: 140%;
+}

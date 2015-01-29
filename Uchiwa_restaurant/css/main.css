@@ -33,6 +33,9 @@ nav li a:hover {
  }
 
 /*body*/
+body{
+	background-color: #383838;
+}
 .mainbody{
 	background-image: url("../img/the_bar.jpg");
 	background-repeat: no-repeat;
